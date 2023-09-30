@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Annotations start="0" num="249" total="249">
+  <Annotation about="news.yahoo.com/*" timestamp="0x0004fb65e85076c0" href="ChBuZXdzLnlhaG9vLmNvbS8qEMDtwcLe7L4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://news.yahoo.com/" />
+  </Annotation>
+  <Annotation about="news.google.de/*" timestamp="0x0004fb65e85076b8" href="ChBuZXdzLmdvb2dsZS5kZS8qELjtwcLe7L4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://news.google.de/" />
+  </Annotation>
+  <Annotation about="news.bbc.co.uk/*" timestamp="0x0004fb65e85076ae" href="ChBuZXdzLmJiYy5jby51ay8qEK7twcLe7L4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://news.bbc.co.uk/" />
+  </Annotation>
+  <Annotation about="news.com.com/*" timestamp="0x0004fb65e85076a2" href="Cg5uZXdzLmNvbS5jb20vKhCi7cHC3uy-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://news.com.com/" />
+  </Annotation>
+  <Annotation about="www.wsj.de/*" timestamp="0x0004fb3b2c20cc49" href="Cgx3d3cud3NqLmRlLyoQyZiD4bLnvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.wsj.de/" />
+  </Annotation>
+  <Annotation about="www.handelsblatt.com/*" timestamp="0x0004fb3b2c20cc33" href="ChZ3d3cuaGFuZGVsc2JsYXR0LmNvbS8qELOYg-Gy574C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.handelsblatt.com/" />
+  </Annotation>
+  <Annotation about="www.zeit.de/*" timestamp="0x0004fb3b2c20cc22" href="Cg13d3cuemVpdC5kZS8qEKKYg-Gy574C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.zeit.de/" />
+  </Annotation>
+  <Annotation about="www.welt.de/*" timestamp="0x0004fb3b2c20cc13" href="Cg13d3cud2VsdC5kZS8qEJOYg-Gy574C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.welt.de/" />
+  </Annotation>
+  <Annotation about="www.sueddeutsche.de/*" timestamp="0x0004fb3b2c20cbfd" href="ChV3d3cuc3VlZGRldXRzY2hlLmRlLyoQ_ZeD4bLnvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.sueddeutsche.de/" />
+  </Annotation>
+  <Annotation about="www.trendhunter.com/*" timestamp="0x0004fa8b4168245c" href="ChV3d3cudHJlbmRodW50ZXIuY29tLyoQ3Migi7TRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.trendhunter.com/" />
+  </Annotation>
+  <Annotation about="www.businessinsider.com/*" timestamp="0x0004fa8b4168244f" href="Chl3d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS8qEM_IoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.businessinsider.com/" />
+  </Annotation>
+  <Annotation about="*.techcrunch.com/*" timestamp="0x0004fa8b41682446" href="ChIqLnRlY2hjcnVuY2guY29tLyoQxsigi7TRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://techcrunch.com/" />
+  </Annotation>
+  <Annotation about="www.engadget.com/*" timestamp="0x0004fa8b41682436" href="ChJ3d3cuZW5nYWRnZXQuY29tLyoQtsigi7TRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.engadget.com/" />
+  </Annotation>
+  <Annotation about="www.theverge.com/*" timestamp="0x0004fa8b41682429" href="ChJ3d3cudGhldmVyZ2UuY29tLyoQqcigi7TRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.theverge.com/" />
+  </Annotation>
+  <Annotation about="www.heise.de/*" timestamp="0x0004fa8b4168241b" href="Cg53d3cuaGVpc2UuZGUvKhCbyKCLtNG-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.heise.de/" />
+  </Annotation>
+  <Annotation about="*.venturebeat.com/*" timestamp="0x0004fa8b4168240b" href="ChMqLnZlbnR1cmViZWF0LmNvbS8qEIvIoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://venturebeat.com/" />
+  </Annotation>
+  <Annotation about="www.gruenderszene.de/*" timestamp="0x0004fa8b416823fa" href="ChZ3d3cuZ3J1ZW5kZXJzemVuZS5kZS8qEPrHoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.gruenderszene.de/" />
+  </Annotation>
+  <Annotation about="www.deutsche-startups.de/*" timestamp="0x0004fa8b416823ea" href="Chp3d3cuZGV1dHNjaGUtc3RhcnR1cHMuZGUvKhDqx6CLtNG-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.deutsche-startups.de/" />
+  </Annotation>
+  <Annotation about="de.slideshare.net/*" timestamp="0x0004fa8b416823d7" href="ChNkZS5zbGlkZXNoYXJlLm5ldC8qENfHoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://de.slideshare.net/" />
+  </Annotation>
+  <Annotation about="paper.li/newsstand/*" timestamp="0x0004fa8b416823a8" href="ChRwYXBlci5saS9uZXdzc3RhbmQvKhCox6CLtNG-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://paper.li/newsstand/" />
+  </Annotation>
+  <Annotation about="www.squidoo.com/*" timestamp="0x0004fa8b4168239a" href="ChF3d3cuc3F1aWRvby5jb20vKhCax6CLtNG-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.squidoo.com/" />
+  </Annotation>
+  <Annotation about="*.prezi.com/*" timestamp="0x0004fa8b4168238d" href="Cg0qLnByZXppLmNvbS8qEI3HoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://prezi.com/" />
+  </Annotation>
+  <Annotation about="www.internetworld.de/*" timestamp="0x0004fa8b41682380" href="ChZ3d3cuaW50ZXJuZXR3b3JsZC5kZS8qEIDHoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.internetworld.de/" />
+  </Annotation>
+  <Annotation about="*.mobilbranche.de/*" timestamp="0x0004fa8b41682371" href="ChMqLm1vYmlsYnJhbmNoZS5kZS8qEPHGoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://mobilbranche.de/" />
+  </Annotation>
+  <Annotation about="www.trendone.com/*" timestamp="0x0004fa8b41682363" href="ChJ3d3cudHJlbmRvbmUuY29tLyoQ48agi7TRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.trendone.com/" />
+  </Annotation>
+  <Annotation about="www.ecin.de/*" timestamp="0x0004fa8b41682355" href="Cg13d3cuZWNpbi5kZS8qENXGoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.ecin.de/" />
+  </Annotation>
+  <Annotation about="*.itechfuture.com/*" timestamp="0x0004fa8b41682348" href="ChMqLml0ZWNoZnV0dXJlLmNvbS8qEMjGoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://itechfuture.com/" />
+  </Annotation>
+  <Annotation about="www.phaydon.de/*" timestamp="0x0004fa8b41682339" href="ChB3d3cucGhheWRvbi5kZS8qELnGoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.phaydon.de/" />
+  </Annotation>
+  <Annotation about="www.ted.com/*" timestamp="0x0004fa8b41682330" href="Cg13d3cudGVkLmNvbS8qELDGoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.ted.com/" />
+  </Annotation>
+  <Annotation about="www.globalchange.com/*" timestamp="0x0004fa8b41682328" href="ChZ3d3cuZ2xvYmFsY2hhbmdlLmNvbS8qEKjGoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.globalchange.com/" />
+  </Annotation>
+  <Annotation about="www.youtube.com/user/npdgroup/videos*" timestamp="0x0004fa8b4168231f" href="CiV3d3cueW91dHViZS5jb20vdXNlci9ucGRncm91cC92aWRlb3MqEJ_GoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.youtube.com/user/npdgroup/videos" />
+  </Annotation>
+  <Annotation about="www.youtube.com/user/ecchandel/videos*" timestamp="0x0004fa8b41682317" href="CiZ3d3cueW91dHViZS5jb20vdXNlci9lY2NoYW5kZWwvdmlkZW9zKhCXxqCLtNG-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.youtube.com/user/ecchandel/videos" />
+  </Annotation>
+  <Annotation about="*.mashable.com/*" timestamp="0x0004fa8b4168230e" href="ChAqLm1hc2hhYmxlLmNvbS8qEI7GoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://mashable.com/" />
+  </Annotation>
+  <Annotation about="www.wired.com/*" timestamp="0x0004fa8b41682306" href="Cg93d3cud2lyZWQuY29tLyoQhsagi7TRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.wired.com/" />
+  </Annotation>
+  <Annotation about="*.lifehacker.com/*" timestamp="0x0004fa8b416822fd" href="ChIqLmxpZmVoYWNrZXIuY29tLyoQ_cWgi7TRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://lifehacker.com/" />
+  </Annotation>
+  <Annotation about="*.t3n.de/*" timestamp="0x0004fa8b416822f4" href="CgoqLnQzbi5kZS8qEPTFoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://t3n.de/" />
+  </Annotation>
+  <Annotation about="www.facebook.com/trendhunter*" timestamp="0x0004fa8b416822ea" href="Ch13d3cuZmFjZWJvb2suY29tL3RyZW5kaHVudGVyKhDqxaCLtNG-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/trendhunter" />
+  </Annotation>
+  <Annotation about="www.facebook.com/Gruenderszene*" timestamp="0x0004fa8b416822e2" href="Ch93d3cuZmFjZWJvb2suY29tL0dydWVuZGVyc3plbmUqEOLFoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/Gruenderszene" />
+  </Annotation>
+  <Annotation about="www.facebook.com/Bitkom*" timestamp="0x0004fa8b416822da" href="Chh3d3cuZmFjZWJvb2suY29tL0JpdGtvbSoQ2sWgi7TRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/Bitkom" />
+  </Annotation>
+  <Annotation about="www.facebook.com/keynotes.org" timestamp="0x0004fa8b416822d1" href="Ch13d3cuZmFjZWJvb2suY29tL2tleW5vdGVzLm9yZxDRxaCLtNG-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/keynotes.org" />
+  </Annotation>
+  <Annotation about="www.facebook.com/VentureVillage*" timestamp="0x0004fa8b416822c9" href="CiB3d3cuZmFjZWJvb2suY29tL1ZlbnR1cmVWaWxsYWdlKhDJxaCLtNG-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/VentureVillage" />
+  </Annotation>
+  <Annotation about="www.facebook.com/seedmatch*" timestamp="0x0004fa8b416822c0" href="Cht3d3cuZmFjZWJvb2suY29tL3NlZWRtYXRjaCoQwMWgi7TRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/seedmatch" />
+  </Annotation>
+  <Annotation about="www.facebook.com/digitaltrendsftw*" timestamp="0x0004fa8b416822b8" href="CiJ3d3cuZmFjZWJvb2suY29tL2RpZ2l0YWx0cmVuZHNmdHcqELjFoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/digitaltrendsftw" />
+  </Annotation>
+  <Annotation about="www.facebook.com/HuffPostTech*" timestamp="0x0004fa8b416822af" href="Ch53d3cuZmFjZWJvb2suY29tL0h1ZmZQb3N0VGVjaCoQr8Wgi7TRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/HuffPostTech" />
+  </Annotation>
+  <Annotation about="www.facebook.com/guardiantechnology*" timestamp="0x0004fa8b416822a7" href="CiR3d3cuZmFjZWJvb2suY29tL2d1YXJkaWFudGVjaG5vbG9neSoQp8Wgi7TRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/guardiantechnology" />
+  </Annotation>
+  <Annotation about="www.facebook.com/managermagazin*" timestamp="0x0004fa8b4168229e" href="CiB3d3cuZmFjZWJvb2suY29tL21hbmFnZXJtYWdhemluKhCexaCLtNG-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/managermagazin" />
+  </Annotation>
+  <Annotation about="www.facebook.com/arstechnica*" timestamp="0x0004fa8b41682296" href="Ch13d3cuZmFjZWJvb2suY29tL2Fyc3RlY2huaWNhKhCWxaCLtNG-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/arstechnica" />
+  </Annotation>
+  <Annotation about="www.facebook.com/technologyreview*" timestamp="0x0004fa8b4168228d" href="CiJ3d3cuZmFjZWJvb2suY29tL3RlY2hub2xvZ3lyZXZpZXcqEI3FoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/technologyreview" />
+  </Annotation>
+  <Annotation about="www.facebook.com/wired*" timestamp="0x0004fa8b41682284" href="Chd3d3cuZmFjZWJvb2suY29tL3dpcmVkKhCExaCLtNG-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.facebook.com/wired" />
+  </Annotation>
+  <Annotation about="twitter.com/mob_commerce*" timestamp="0x0004fa8b4168227b" href="Chl0d2l0dGVyLmNvbS9tb2JfY29tbWVyY2UqEPvEoIu00b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://twitter.com/mob_commerce" />
+  </Annotation>
+  <Annotation about="twitter.com/MCommerceDaily*" timestamp="0x0004fa8b4168226e" href="Cht0d2l0dGVyLmNvbS9NQ29tbWVyY2VEYWlseSoQ7sSgi7TRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://twitter.com/MCommerceDaily" />
+  </Annotation>
+  <Annotation about="www.practicalecommerce.com/articles/*" timestamp="0x0004fa8b3401b42a" href="CiV3d3cucHJhY3RpY2FsZWNvbW1lcmNlLmNvbS9hcnRpY2xlcy8qEKrohqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.practicalecommerce.com/articles/*" />
+  </Annotation>
+  <Annotation about="my.safaribooksonline.com/book/databases/oracle/*" timestamp="0x0004fa8b3401b421" href="CjBteS5zYWZhcmlib29rc29ubGluZS5jb20vYm9vay9kYXRhYmFzZXMvb3JhY2xlLyoQoeiGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://my.safaribooksonline.com/book/databases/oracle/*" />
+  </Annotation>
+  <Annotation about="www.fiercemobilehealthcare.com/*" timestamp="0x0004fa8b3401b418" href="CiB3d3cuZmllcmNlbW9iaWxlaGVhbHRoY2FyZS5jb20vKhCY6Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.fiercemobilehealthcare.com/*" />
+  </Annotation>
+  <Annotation about="www.mobilepaymentstoday.com/*" timestamp="0x0004fa8b3401b40f" href="Ch13d3cubW9iaWxlcGF5bWVudHN0b2RheS5jb20vKhCP6Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.mobilepaymentstoday.com/*" />
+  </Annotation>
+  <Annotation about="www.picaflor-azul.com/*" timestamp="0x0004fa8b3401b406" href="Chd3d3cucGljYWZsb3ItYXp1bC5jb20vKhCG6Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.picaflor-azul.com/*" />
+  </Annotation>
+  <Annotation about="www.bluespotweb.com/locations/*" timestamp="0x0004fa8b3401b3fa" href="Ch93d3cuYmx1ZXNwb3R3ZWIuY29tL2xvY2F0aW9ucy8qEPrnhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.bluespotweb.com/locations/*" />
+  </Annotation>
+  <Annotation about="*.vsdaily.com/*" timestamp="0x0004fa8b3401b3f1" href="Cg8qLnZzZGFpbHkuY29tLyoQ8eeGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://vsdaily.com/*" />
+  </Annotation>
+  <Annotation about="www.getelastic.com/*" timestamp="0x0004fa8b3401b3e8" href="ChR3d3cuZ2V0ZWxhc3RpYy5jb20vKhDo54ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.getelastic.com/*" />
+  </Annotation>
+  <Annotation about="www.flosee.co.uk/*" timestamp="0x0004fa8b3401b3e0" href="ChJ3d3cuZmxvc2VlLmNvLnVrLyoQ4OeGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.flosee.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.pegasusinfocorp.com/*" timestamp="0x0004fa8b3401b3d7" href="Chl3d3cucGVnYXN1c2luZm9jb3JwLmNvbS8qENfnhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.pegasusinfocorp.com/*" />
+  </Annotation>
+  <Annotation about="*.handsonerp.com/*" timestamp="0x0004fa8b3401b3cd" href="ChIqLmhhbmRzb25lcnAuY29tLyoQzeeGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://handsonerp.com/*" />
+  </Annotation>
+  <Annotation about="www.ydeveloper.com/*" timestamp="0x0004fa8b3401b3bd" href="ChR3d3cueWRldmVsb3Blci5jb20vKhC954ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.ydeveloper.com/*" />
+  </Annotation>
+  <Annotation about="onlinebusiness.volusion.com/articles/*" timestamp="0x0004fa8b3401b3ad" href="CiZvbmxpbmVidXNpbmVzcy52b2x1c2lvbi5jb20vYXJ0aWNsZXMvKhCt54ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://onlinebusiness.volusion.com/articles/*" />
+  </Annotation>
+  <Annotation about="www.emarketservices.com/*" timestamp="0x0004fa8b3401b39f" href="Chl3d3cuZW1hcmtldHNlcnZpY2VzLmNvbS8qEJ_nhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.emarketservices.com/*" />
+  </Annotation>
+  <Annotation about="tictimetrends.com/shop/*" timestamp="0x0004fa8b3401b38e" href="Chh0aWN0aW1ldHJlbmRzLmNvbS9zaG9wLyoQjueGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://tictimetrends.com/shop/*" />
+  </Annotation>
+  <Annotation about="www.clarity-ventures.com/*" timestamp="0x0004fa8b3401b37a" href="Chp3d3cuY2xhcml0eS12ZW50dXJlcy5jb20vKhD65oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.clarity-ventures.com/*" />
+  </Annotation>
+  <Annotation about="www.fortune3.com/*" timestamp="0x0004fa8b3401b372" href="ChJ3d3cuZm9ydHVuZTMuY29tLyoQ8uaGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.fortune3.com/*" />
+  </Annotation>
+  <Annotation about="www.emall.sg/*" timestamp="0x0004fa8b3401b36a" href="Cg53d3cuZW1hbGwuc2cvKhDq5oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.emall.sg/*" />
+  </Annotation>
+  <Annotation about="*.ecommerce-investments.com/*" timestamp="0x0004fa8b3401b361" href="Ch0qLmVjb21tZXJjZS1pbnZlc3RtZW50cy5jb20vKhDh5oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://ecommerce-investments.com/*" />
+  </Annotation>
+  <Annotation about="www.pump-pharma.com/*" timestamp="0x0004fa8b3401b354" href="ChV3d3cucHVtcC1waGFybWEuY29tLyoQ1OaGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.pump-pharma.com/*" />
+  </Annotation>
+  <Annotation about="www.3dcart.com/*" timestamp="0x0004fa8b3401b34a" href="ChB3d3cuM2RjYXJ0LmNvbS8qEMrmhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.3dcart.com/*" />
+  </Annotation>
+  <Annotation about="www.advansys.com/*" timestamp="0x0004fa8b3401b33c" href="ChJ3d3cuYWR2YW5zeXMuY29tLyoQvOaGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.advansys.com/*" />
+  </Annotation>
+  <Annotation about="*.mhealthwatch.com/*" timestamp="0x0004fa8b3401b32a" href="ChQqLm1oZWFsdGh3YXRjaC5jb20vKhCq5oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://mhealthwatch.com/*" />
+  </Annotation>
+  <Annotation about="www.aspldelhi.com/*" timestamp="0x0004fa8b3401b30b" href="ChN3d3cuYXNwbGRlbGhpLmNvbS8qEIvmhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.aspldelhi.com/*" />
+  </Annotation>
+  <Annotation about="www.demandware.com/*" timestamp="0x0004fa8b3401b2fa" href="ChR3d3cuZGVtYW5kd2FyZS5jb20vKhD65Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.demandware.com/*" />
+  </Annotation>
+  <Annotation about="www.mhealthsummit.org/*" timestamp="0x0004fa8b3401b2f2" href="Chd3d3cubWhlYWx0aHN1bW1pdC5vcmcvKhDy5Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.mhealthsummit.org/*" />
+  </Annotation>
+  <Annotation about="www.timpeter.com/blog/*" timestamp="0x0004fa8b3401b2e9" href="Chd3d3cudGltcGV0ZXIuY29tL2Jsb2cvKhDp5Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.timpeter.com/blog/*" />
+  </Annotation>
+  <Annotation about="www.gowebbaby.com/*" timestamp="0x0004fa8b3401b2df" href="ChN3d3cuZ293ZWJiYWJ5LmNvbS8qEN_lhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.gowebbaby.com/*" />
+  </Annotation>
+  <Annotation about="www.e-commercewebdesigners.net/*" timestamp="0x0004fa8b3401b2d7" href="CiB3d3cuZS1jb21tZXJjZXdlYmRlc2lnbmVycy5uZXQvKhDX5Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.e-commercewebdesigners.net/*" />
+  </Annotation>
+  <Annotation about="www.lastdaywarriors.com/*" timestamp="0x0004fa8b3401b2cf" href="Chl3d3cubGFzdGRheXdhcnJpb3JzLmNvbS8qEM_lhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.lastdaywarriors.com/*" />
+  </Annotation>
+  <Annotation about="www.ebayenterprise.com/*" timestamp="0x0004fa8b3401b2c7" href="Chh3d3cuZWJheWVudGVycHJpc2UuY29tLyoQx-WGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.ebayenterprise.com/*" />
+  </Annotation>
+  <Annotation about="*.webshopmanager.com/*" timestamp="0x0004fa8b3401b2be" href="ChYqLndlYnNob3BtYW5hZ2VyLmNvbS8qEL7lhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://webshopmanager.com/*" />
+  </Annotation>
+  <Annotation about="www.dgsimports.net.au/*" timestamp="0x0004fa8b3401b2b6" href="Chd3d3cuZGdzaW1wb3J0cy5uZXQuYXUvKhC25Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.dgsimports.net.au/*" />
+  </Annotation>
+  <Annotation about="www.ecommercepartners.net/*" timestamp="0x0004fa8b3401b2ae" href="Cht3d3cuZWNvbW1lcmNlcGFydG5lcnMubmV0LyoQruWGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.ecommercepartners.net/*" />
+  </Annotation>
+  <Annotation about="www.evolvenet.co.uk/*" timestamp="0x0004fa8b3401b2a5" href="ChV3d3cuZXZvbHZlbmV0LmNvLnVrLyoQpeWGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.evolvenet.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.creativewebsols.com/*" timestamp="0x0004fa8b3401b29d" href="Chl3d3cuY3JlYXRpdmV3ZWJzb2xzLmNvbS8qEJ3lhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.creativewebsols.com/*" />
+  </Annotation>
+  <Annotation about="www.mhealthnews.com/*" timestamp="0x0004fa8b3401b294" href="ChV3d3cubWhlYWx0aG5ld3MuY29tLyoQlOWGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.mhealthnews.com/*" />
+  </Annotation>
+  <Annotation about="*.xmediasolution.com/*" timestamp="0x0004fa8b3401b284" href="ChYqLnhtZWRpYXNvbHV0aW9uLmNvbS8qEITlhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://xmediasolution.com/*" />
+  </Annotation>
+  <Annotation about="www.ibizsoftinc.com/*" timestamp="0x0004fa8b3401b27b" href="ChV3d3cuaWJpenNvZnRpbmMuY29tLyoQ--SGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.ibizsoftinc.com/*" />
+  </Annotation>
+  <Annotation about="kewlighting.co.uk/*" timestamp="0x0004fa8b3401b274" href="ChNrZXdsaWdodGluZy5jby51ay8qEPTkhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://kewlighting.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.noetix.com/*" timestamp="0x0004fa8b3401b26b" href="ChB3d3cubm9ldGl4LmNvbS8qEOvkhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.noetix.com/*" />
+  </Annotation>
+  <Annotation about="forums.searchfit.com/*" timestamp="0x0004fa8b3401b263" href="ChZmb3J1bXMuc2VhcmNoZml0LmNvbS8qEOPkhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://forums.searchfit.com/*" />
+  </Annotation>
+  <Annotation about="www.aspdotnetstorefront.com/*" timestamp="0x0004fa8b3401b25b" href="Ch13d3cuYXNwZG90bmV0c3RvcmVmcm9udC5jb20vKhDb5Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.aspdotnetstorefront.com/*" />
+  </Annotation>
+  <Annotation about="*.lizzysthisnthat.com/*" timestamp="0x0004fa8b3401b253" href="ChcqLmxpenp5c3RoaXNudGhhdC5jb20vKhDT5Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://lizzysthisnthat.com/*" />
+  </Annotation>
+  <Annotation about="www.quora.com/E-Commerce/*" timestamp="0x0004fa8b3401b24a" href="Chp3d3cucXVvcmEuY29tL0UtQ29tbWVyY2UvKhDK5Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.quora.com/E-Commerce/*" />
+  </Annotation>
+  <Annotation about="www.mediachase.com/*" timestamp="0x0004fa8b3401b242" href="ChR3d3cubWVkaWFjaGFzZS5jb20vKhDC5Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.mediachase.com/*" />
+  </Annotation>
+  <Annotation about="*.christembassydigitalmedia.com/*" timestamp="0x0004fa8b3401b239" href="CiEqLmNocmlzdGVtYmFzc3lkaWdpdGFsbWVkaWEuY29tLyoQueSGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://christembassydigitalmedia.com/*" />
+  </Annotation>
+  <Annotation about="www.grangewebdesign.com/*" timestamp="0x0004fa8b3401b22f" href="Chl3d3cuZ3Jhbmdld2ViZGVzaWduLmNvbS8qEK_khqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.grangewebdesign.com/*" />
+  </Annotation>
+  <Annotation about="*.ecommercejobs.com/*" timestamp="0x0004fa8b3401b227" href="ChUqLmVjb21tZXJjZWpvYnMuY29tLyoQp-SGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://ecommercejobs.com/*" />
+  </Annotation>
+  <Annotation about="www.ecommercetemplates.co/*" timestamp="0x0004fa8b3401b21e" href="Cht3d3cuZWNvbW1lcmNldGVtcGxhdGVzLmNvLyoQnuSGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.ecommercetemplates.co/*" />
+  </Annotation>
+  <Annotation about="ecommerce.about.com/*" timestamp="0x0004fa8b3401b216" href="ChVlY29tbWVyY2UuYWJvdXQuY29tLyoQluSGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://ecommerce.about.com/*" />
+  </Annotation>
+  <Annotation about="www.kolonyrecords.com/*" timestamp="0x0004fa8b3401b20d" href="Chd3d3cua29sb255cmVjb3Jkcy5jb20vKhCN5Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.kolonyrecords.com/*" />
+  </Annotation>
+  <Annotation about="www.untiedshoes.co.uk/*" timestamp="0x0004fa8b3401b205" href="Chd3d3cudW50aWVkc2hvZXMuY28udWsvKhCF5Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.untiedshoes.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.cs-cart.com/*" timestamp="0x0004fa8b3401b1fc" href="ChF3d3cuY3MtY2FydC5jb20vKhD844ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.cs-cart.com/*" />
+  </Annotation>
+  <Annotation about="www.awdcommerce.com/*" timestamp="0x0004fa8b3401b1ee" href="ChV3d3cuYXdkY29tbWVyY2UuY29tLyoQ7uOGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.awdcommerce.com/*" />
+  </Annotation>
+  <Annotation about="www.cart32.com/*" timestamp="0x0004fa8b3401b1db" href="ChB3d3cuY2FydDMyLmNvbS8qENvjhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.cart32.com/*" />
+  </Annotation>
+  <Annotation about="www.austinecommercewebsites.com/*" timestamp="0x0004fa8b3401b1cc" href="CiF3d3cuYXVzdGluZWNvbW1lcmNld2Vic2l0ZXMuY29tLyoQzOOGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.austinecommercewebsites.com/*" />
+  </Annotation>
+  <Annotation about="www.cuecommerce.com/*" timestamp="0x0004fa8b3401b1bc" href="ChV3d3cuY3VlY29tbWVyY2UuY29tLyoQvOOGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.cuecommerce.com/*" />
+  </Annotation>
+  <Annotation about="www.auscommerce.com.au/aussie-ecommerce-jobs/*" timestamp="0x0004fa8b3401b1ae" href="Ci53d3cuYXVzY29tbWVyY2UuY29tLmF1L2F1c3NpZS1lY29tbWVyY2Utam9icy8qEK7jhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.auscommerce.com.au/aussie-ecommerce-jobs/*" />
+  </Annotation>
+  <Annotation about="www.shopvisible.com/*" timestamp="0x0004fa8b3401b1a5" href="ChV3d3cuc2hvcHZpc2libGUuY29tLyoQpeOGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.shopvisible.com/*" />
+  </Annotation>
+  <Annotation about="one.com.cy/*" timestamp="0x0004fa8b3401b19d" href="CgxvbmUuY29tLmN5LyoQneOGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://one.com.cy/*" />
+  </Annotation>
+  <Annotation about="www.buyunavi.com/*" timestamp="0x0004fa8b3401b195" href="ChJ3d3cuYnV5dW5hdmkuY29tLyoQleOGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.buyunavi.com/*" />
+  </Annotation>
+  <Annotation about="www.integrigy.com/*" timestamp="0x0004fa8b3401b18d" href="ChN3d3cuaW50ZWdyaWd5LmNvbS8qEI3jhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.integrigy.com/*" />
+  </Annotation>
+  <Annotation about="www.saleswarp.com/*" timestamp="0x0004fa8b3401b185" href="ChN3d3cuc2FsZXN3YXJwLmNvbS8qEIXjhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.saleswarp.com/*" />
+  </Annotation>
+  <Annotation about="www.freelancer.com/projects/Website-Design-Shopping-Carts/*" timestamp="0x0004fa8b3401b17d" href="Cjt3d3cuZnJlZWxhbmNlci5jb20vcHJvamVjdHMvV2Vic2l0ZS1EZXNpZ24tU2hvcHBpbmctQ2FydHMvKhD94oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.freelancer.com/projects/Website-Design-Shopping-Carts/*" />
+  </Annotation>
+  <Annotation about="www.jsweb.co.uk/*" timestamp="0x0004fa8b3401b175" href="ChF3d3cuanN3ZWIuY28udWsvKhD14oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.jsweb.co.uk/*" />
+  </Annotation>
+  <Annotation about="themes.shopify.com/*" timestamp="0x0004fa8b3401b16d" href="ChR0aGVtZXMuc2hvcGlmeS5jb20vKhDt4oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://themes.shopify.com/*" />
+  </Annotation>
+  <Annotation about="www.webtise.co.uk/*" timestamp="0x0004fa8b3401b165" href="ChN3d3cud2VidGlzZS5jby51ay8qEOXihqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.webtise.co.uk/*" />
+  </Annotation>
+  <Annotation about="web-design-software.findthebest.com/*" timestamp="0x0004fa8b3401b15c" href="CiV3ZWItZGVzaWduLXNvZnR3YXJlLmZpbmR0aGViZXN0LmNvbS8qENzihqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://web-design-software.findthebest.com/*" />
+  </Annotation>
+  <Annotation about="www.ecommerceknowhow.com/*" timestamp="0x0004fa8b3401b14f" href="Chp3d3cuZWNvbW1lcmNla25vd2hvdy5jb20vKhDP4oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.ecommerceknowhow.com/*" />
+  </Annotation>
+  <Annotation about="www.tradersdvd.com/*" timestamp="0x0004fa8b3401b143" href="ChR3d3cudHJhZGVyc2R2ZC5jb20vKhDD4oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.tradersdvd.com/*" />
+  </Annotation>
+  <Annotation about="www.wedresswomen.com/*" timestamp="0x0004fa8b3401b13b" href="ChZ3d3cud2VkcmVzc3dvbWVuLmNvbS8qELvihqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.wedresswomen.com/*" />
+  </Annotation>
+  <Annotation about="mydecasa.com/store/*" timestamp="0x0004fa8b3401b133" href="ChRteWRlY2FzYS5jb20vc3RvcmUvKhCz4oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://mydecasa.com/store/*" />
+  </Annotation>
+  <Annotation about="www.vip-consult.co.uk/*" timestamp="0x0004fa8b3401b12b" href="Chd3d3cudmlwLWNvbnN1bHQuY28udWsvKhCr4oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.vip-consult.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.southpointphoto.com/productcart/pc/*" timestamp="0x0004fa8b3401b123" href="Cih3d3cuc291dGhwb2ludHBob3RvLmNvbS9wcm9kdWN0Y2FydC9wYy8qEKPihqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.southpointphoto.com/productcart/pc/*" />
+  </Annotation>
+  <Annotation about="www.wegetworld.com/*" timestamp="0x0004fa8b3401b11a" href="ChR3d3cud2VnZXR3b3JsZC5jb20vKhCa4oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.wegetworld.com/*" />
+  </Annotation>
+  <Annotation about="*.mobilepaymentmagazine.com/*" timestamp="0x0004fa8b3401b112" href="Ch0qLm1vYmlsZXBheW1lbnRtYWdhemluZS5jb20vKhCS4oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://mobilepaymentmagazine.com/*" />
+  </Annotation>
+  <Annotation about="www.info.insitesoft.com/Insite-Software-Blog/*" timestamp="0x0004fa8b3401b109" href="Ci53d3cuaW5mby5pbnNpdGVzb2Z0LmNvbS9JbnNpdGUtU29mdHdhcmUtQmxvZy8qEInihqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.info.insitesoft.com/Insite-Software-Blog/*" />
+  </Annotation>
+  <Annotation about="www.teclan.com/*" timestamp="0x0004fa8b3401b100" href="ChB3d3cudGVjbGFuLmNvbS8qEIDihqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.teclan.com/*" />
+  </Annotation>
+  <Annotation about="www.interbiztech.com/mavista/*" timestamp="0x0004fa8b3401b0f8" href="Ch53d3cuaW50ZXJiaXp0ZWNoLmNvbS9tYXZpc3RhLyoQ-OGGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.interbiztech.com/mavista/*" />
+  </Annotation>
+  <Annotation about="news.eway.com.au/*" timestamp="0x0004fa8b3401b0f0" href="ChJuZXdzLmV3YXkuY29tLmF1LyoQ8OGGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://news.eway.com.au/*" />
+  </Annotation>
+  <Annotation about="www.steroid-supplier.com/*" timestamp="0x0004fa8b3401b0e7" href="Chp3d3cuc3Rlcm9pZC1zdXBwbGllci5jb20vKhDn4Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.steroid-supplier.com/*" />
+  </Annotation>
+  <Annotation about="www.eaglems.net/part/*" timestamp="0x0004fa8b3401b0df" href="ChZ3d3cuZWFnbGVtcy5uZXQvcGFydC8qEN_hhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.eaglems.net/part/*" />
+  </Annotation>
+  <Annotation about="www.prestashop.com/en/*" timestamp="0x0004fa8b3401b0d7" href="Chd3d3cucHJlc3Rhc2hvcC5jb20vZW4vKhDX4Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.prestashop.com/en/*" />
+  </Annotation>
+  <Annotation about="ecommerce.instantestore.com/*" timestamp="0x0004fa8b3401b0cf" href="Ch1lY29tbWVyY2UuaW5zdGFudGVzdG9yZS5jb20vKhDP4Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://ecommerce.instantestore.com/*" />
+  </Annotation>
+  <Annotation about="www.groovecommerce.com/*" timestamp="0x0004fa8b3401b0c6" href="Chh3d3cuZ3Jvb3ZlY29tbWVyY2UuY29tLyoQxuGGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.groovecommerce.com/*" />
+  </Annotation>
+  <Annotation about="www.lyonscg.com/*" timestamp="0x0004fa8b3401b0be" href="ChF3d3cubHlvbnNjZy5jb20vKhC-4Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.lyonscg.com/*" />
+  </Annotation>
+  <Annotation about="www.holbi.co.uk/*" timestamp="0x0004fa8b3401b0b6" href="ChF3d3cuaG9sYmkuY28udWsvKhC24Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.holbi.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.visualsoft.co.uk/*" timestamp="0x0004fa8b3401b0ae" href="ChZ3d3cudmlzdWFsc29mdC5jby51ay8qEK7hhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.visualsoft.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.gorillagroup.com/*" timestamp="0x0004fa8b3401b0a7" href="ChZ3d3cuZ29yaWxsYWdyb3VwLmNvbS8qEKfhhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.gorillagroup.com/*" />
+  </Annotation>
+  <Annotation about="www.bevivid.co.uk/*" timestamp="0x0004fa8b3401b09f" href="ChN3d3cuYmV2aXZpZC5jby51ay8qEJ_hhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.bevivid.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.norbreck-aquatics.co.uk/*" timestamp="0x0004fa8b3401b097" href="Ch13d3cubm9yYnJlY2stYXF1YXRpY3MuY28udWsvKhCX4Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.norbreck-aquatics.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.alaskanessences.com/*" timestamp="0x0004fa8b3401b08e" href="Chl3d3cuYWxhc2thbmVzc2VuY2VzLmNvbS8qEI7hhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.alaskanessences.com/*" />
+  </Annotation>
+  <Annotation about="www.7soft.co.uk/*" timestamp="0x0004fa8b3401b086" href="ChF3d3cuN3NvZnQuY28udWsvKhCG4Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.7soft.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.infinitytechnologies.com.au/*" timestamp="0x0004fa8b3401b07a" href="CiF3d3cuaW5maW5pdHl0ZWNobm9sb2dpZXMuY29tLmF1LyoQ-uCGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.infinitytechnologies.com.au/*" />
+  </Annotation>
+  <Annotation about="www.chaptereight.com/*" timestamp="0x0004fa8b3401b072" href="ChZ3d3cuY2hhcHRlcmVpZ2h0LmNvbS8qEPLghqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="https://www.chaptereight.com/*" />
+  </Annotation>
+  <Annotation about="www.ems-internet.co.uk/*" timestamp="0x0004fa8b3401b069" href="Chh3d3cuZW1zLWludGVybmV0LmNvLnVrLyoQ6eCGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.ems-internet.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.oscommercetemplates.com/*" timestamp="0x0004fa8b3401b062" href="Ch13d3cub3Njb21tZXJjZXRlbXBsYXRlcy5jb20vKhDi4Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.oscommercetemplates.com/*" />
+  </Annotation>
+  <Annotation about="www.atteya.net/*" timestamp="0x0004fa8b3401b05a" href="ChB3d3cuYXR0ZXlhLm5ldC8qENrghqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.atteya.net/*" />
+  </Annotation>
+  <Annotation about="www.pymnts.com/briefing-room/mobile/*" timestamp="0x0004fa8b3401b052" href="CiV3d3cucHltbnRzLmNvbS9icmllZmluZy1yb29tL21vYmlsZS8qENLghqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.pymnts.com/briefing-room/mobile/*" />
+  </Annotation>
+  <Annotation about="*.templatesintime.com/*" timestamp="0x0004fa8b3401b049" href="ChcqLnRlbXBsYXRlc2ludGltZS5jb20vKhDJ4Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://templatesintime.com/*" />
+  </Annotation>
+  <Annotation about="www.kosmoscentral.com/*" timestamp="0x0004fa8b3401b03b" href="Chd3d3cua29zbW9zY2VudHJhbC5jb20vKhC74Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.kosmoscentral.com/*" />
+  </Annotation>
+  <Annotation about="www.1234-find-web-designers.org/*" timestamp="0x0004fa8b3401b034" href="CiF3d3cuMTIzNC1maW5kLXdlYi1kZXNpZ25lcnMub3JnLyoQtOCGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.1234-find-web-designers.org/*" />
+  </Annotation>
+  <Annotation about="www.insitesoft.com/*" timestamp="0x0004fa8b3401b02b" href="ChR3d3cuaW5zaXRlc29mdC5jb20vKhCr4Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.insitesoft.com/*" />
+  </Annotation>
+  <Annotation about="www.znode.com/*" timestamp="0x0004fa8b3401b023" href="Cg93d3cuem5vZGUuY29tLyoQo-CGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.znode.com/*" />
+  </Annotation>
+  <Annotation about="www.smartimageworkwear.co.uk/*" timestamp="0x0004fa8b3401b01b" href="Ch53d3cuc21hcnRpbWFnZXdvcmt3ZWFyLmNvLnVrLyoQm-CGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.smartimageworkwear.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.vevocart.com/*" timestamp="0x0004fa8b3401b00d" href="ChJ3d3cudmV2b2NhcnQuY29tLyoQjeCGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.vevocart.com/*" />
+  </Annotation>
+  <Annotation about="www.volusion.com/*" timestamp="0x0004fa8b3401afff" href="ChJ3d3cudm9sdXNpb24uY29tLyoQ_9-GoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.volusion.com/*" />
+  </Annotation>
+  <Annotation about="blogs.perceptionsystem.com/*" timestamp="0x0004fa8b3401aff0" href="ChxibG9ncy5wZXJjZXB0aW9uc3lzdGVtLmNvbS8qEPDfhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://blogs.perceptionsystem.com/*" />
+  </Annotation>
+  <Annotation about="www.pdgsoft.com/*" timestamp="0x0004fa8b3401afe0" href="ChF3d3cucGRnc29mdC5jb20vKhDg34ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.pdgsoft.com/*" />
+  </Annotation>
+  <Annotation about="www.ashopsoftware.com/*" timestamp="0x0004fa8b3401afd1" href="Chd3d3cuYXNob3Bzb2Z0d2FyZS5jb20vKhDR34ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.ashopsoftware.com/*" />
+  </Annotation>
+  <Annotation about="www.terabyte.co.nz/our-work/*" timestamp="0x0004fa8b3401afc2" href="Ch13d3cudGVyYWJ5dGUuY28ubnovb3VyLXdvcmsvKhDC34ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.terabyte.co.nz/our-work/*" />
+  </Annotation>
+  <Annotation about="ecommerce-templates.volusion.com/*" timestamp="0x0004fa8b3401afbb" href="CiJlY29tbWVyY2UtdGVtcGxhdGVzLnZvbHVzaW9uLmNvbS8qELvfhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://ecommerce-templates.volusion.com/*" />
+  </Annotation>
+  <Annotation about="www.edlconsulting.com/*" timestamp="0x0004fa8b3401afb1" href="Chd3d3cuZWRsY29uc3VsdGluZy5jb20vKhCx34ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.edlconsulting.com/*" />
+  </Annotation>
+  <Annotation about="www.nexternal.com/*" timestamp="0x0004fa8b3401afaa" href="ChN3d3cubmV4dGVybmFsLmNvbS8qEKrfhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.nexternal.com/*" />
+  </Annotation>
+  <Annotation about="blog.blueport.com/blog/*" timestamp="0x0004fa8b3401afa2" href="ChhibG9nLmJsdWVwb3J0LmNvbS9ibG9nLyoQot-GoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://blog.blueport.com/blog/*" />
+  </Annotation>
+  <Annotation about="*.davidleescher.com/*" timestamp="0x0004fa8b3401af9b" href="ChUqLmRhdmlkbGVlc2NoZXIuY29tLyoQm9-GoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://davidleescher.com/*" />
+  </Annotation>
+  <Annotation about="understandingecommerce.com/2011/*" timestamp="0x0004fa8b3401af91" href="CiF1bmRlcnN0YW5kaW5nZWNvbW1lcmNlLmNvbS8yMDExLyoQkd-GoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://understandingecommerce.com/2011/*" />
+  </Annotation>
+  <Annotation about="www.martec.ie/*" timestamp="0x0004fa8b3401af8a" href="Cg93d3cubWFydGVjLmllLyoQit-GoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.martec.ie/*" />
+  </Annotation>
+  <Annotation about="www.e-web-solutions.net/*" timestamp="0x0004fa8b3401af82" href="Chl3d3cuZS13ZWItc29sdXRpb25zLm5ldC8qEILfhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.e-web-solutions.net/*" />
+  </Annotation>
+  <Annotation about="www.ezosc.com/*" timestamp="0x0004fa8b3401af7a" href="Cg93d3cuZXpvc2MuY29tLyoQ-t6GoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.ezosc.com/*" />
+  </Annotation>
+  <Annotation about="mkdstudio.com/mk-blog/index.php/*" timestamp="0x0004fa8b3401af73" href="CiFta2RzdHVkaW8uY29tL21rLWJsb2cvaW5kZXgucGhwLyoQ896GoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://mkdstudio.com/mk-blog/index.php/*" />
+  </Annotation>
+  <Annotation about="www.goecart.com/*" timestamp="0x0004fa8b3401af6b" href="ChF3d3cuZ29lY2FydC5jb20vKhDr3oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.goecart.com/*" />
+  </Annotation>
+  <Annotation about="www.shoppingcartelite.com/*" timestamp="0x0004fa8b3401af63" href="Cht3d3cuc2hvcHBpbmdjYXJ0ZWxpdGUuY29tLyoQ496GoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.shoppingcartelite.com/*" />
+  </Annotation>
+  <Annotation about="www.keepdesign.com.my/*" timestamp="0x0004fa8b3401af5b" href="Chd3d3cua2VlcGRlc2lnbi5jb20ubXkvKhDb3oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.keepdesign.com.my/*" />
+  </Annotation>
+  <Annotation about="*.tip2web.com/*" timestamp="0x0004fa8b3401af54" href="Cg8qLnRpcDJ3ZWIuY29tLyoQ1N6GoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://tip2web.com/*" />
+  </Annotation>
+  <Annotation about="www.journalmtm.com/*" timestamp="0x0004fa8b3401af4b" href="ChR3d3cuam91cm5hbG10bS5jb20vKhDL3oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.journalmtm.com/*" />
+  </Annotation>
+  <Annotation about="blog.e-web-solutions.net/*" timestamp="0x0004fa8b3401af43" href="ChpibG9nLmUtd2ViLXNvbHV0aW9ucy5uZXQvKhDD3oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://blog.e-web-solutions.net/*" />
+  </Annotation>
+  <Annotation about="www.wazala.com/*" timestamp="0x0004fa8b3401af35" href="ChB3d3cud2F6YWxhLmNvbS8qELXehqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.wazala.com/*" />
+  </Annotation>
+  <Annotation about="www.project.eu.com/*" timestamp="0x0004fa8b3401af2e" href="ChR3d3cucHJvamVjdC5ldS5jb20vKhCu3oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.project.eu.com/*" />
+  </Annotation>
+  <Annotation about="www.practicalecommerce.com/columns/*" timestamp="0x0004fa8b3401af26" href="CiR3d3cucHJhY3RpY2FsZWNvbW1lcmNlLmNvbS9jb2x1bW5zLyoQpt6GoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.practicalecommerce.com/columns/*" />
+  </Annotation>
+  <Annotation about="www.websanity.co.uk/past-work/*" timestamp="0x0004fa8b3401af1d" href="Ch93d3cud2Vic2FuaXR5LmNvLnVrL3Bhc3Qtd29yay8qEJ3ehqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.websanity.co.uk/past-work/*" />
+  </Annotation>
+  <Annotation about="mhealthinsight.com/2013/*" timestamp="0x0004fa8b3401af10" href="ChltaGVhbHRoaW5zaWdodC5jb20vMjAxMy8qEJDehqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://mhealthinsight.com/2013/*" />
+  </Annotation>
+  <Annotation about="*.kanx.org/*" timestamp="0x0004fa8b3401af07" href="CgwqLmthbngub3JnLyoQh96GoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://kanx.org/*" />
+  </Annotation>
+  <Annotation about="www.efellemedia.com/portfolio/web-design-and-development/*" timestamp="0x0004fa8b3401aeff" href="Cjp3d3cuZWZlbGxlbWVkaWEuY29tL3BvcnRmb2xpby93ZWItZGVzaWduLWFuZC1kZXZlbG9wbWVudC8qEP_dhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.efellemedia.com/portfolio/web-design-and-development/*" />
+  </Annotation>
+  <Annotation about="www.frooition.com/*" timestamp="0x0004fa8b3401aef7" href="ChN3d3cuZnJvb2l0aW9uLmNvbS8qEPfdhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.frooition.com/*" />
+  </Annotation>
+  <Annotation about="videos.websiteforge.com/*" timestamp="0x0004fa8b3401aeef" href="Chl2aWRlb3Mud2Vic2l0ZWZvcmdlLmNvbS8qEO_dhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://videos.websiteforge.com/*" />
+  </Annotation>
+  <Annotation about="www.neotericuk.co.uk/*" timestamp="0x0004fa8b3401aee7" href="ChZ3d3cubmVvdGVyaWN1ay5jby51ay8qEOfdhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.neotericuk.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.magiclogix.com/about/*" timestamp="0x0004fa8b3401aedf" href="Chp3d3cubWFnaWNsb2dpeC5jb20vYWJvdXQvKhDf3Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.magiclogix.com/about/*" />
+  </Annotation>
+  <Annotation about="www.zencartoptimization.com/*" timestamp="0x0004fa8b3401aed7" href="Ch13d3cuemVuY2FydG9wdGltaXphdGlvbi5jb20vKhDX3Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.zencartoptimization.com/*" />
+  </Annotation>
+  <Annotation about="www.mhimss.org/*" timestamp="0x0004fa8b3401aecf" href="ChB3d3cubWhpbXNzLm9yZy8qEM_dhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.mhimss.org/*" />
+  </Annotation>
+  <Annotation about="www.yastar.com/*" timestamp="0x0004fa8b3401aec7" href="ChB3d3cueWFzdGFyLmNvbS8qEMfdhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.yastar.com/*" />
+  </Annotation>
+  <Annotation about="www.cmslive.co.uk/*" timestamp="0x0004fa8b3401aec0" href="ChN3d3cuY21zbGl2ZS5jby51ay8qEMDdhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.cmslive.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.marketlive.com/*" timestamp="0x0004fa8b3401aeb8" href="ChR3d3cubWFya2V0bGl2ZS5jb20vKhC43Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.marketlive.com/*" />
+  </Annotation>
+  <Annotation about="www.networksolutions.com/education/*" timestamp="0x0004fa8b3401aeb0" href="CiR3d3cubmV0d29ya3NvbHV0aW9ucy5jb20vZWR1Y2F0aW9uLyoQsN2GoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.networksolutions.com/education/*" />
+  </Annotation>
+  <Annotation about="www.websiteforge.com/*" timestamp="0x0004fa8b3401aea8" href="ChZ3d3cud2Vic2l0ZWZvcmdlLmNvbS8qEKjdhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.websiteforge.com/*" />
+  </Annotation>
+  <Annotation about="www.mhealthalliance.org/*" timestamp="0x0004fa8b3401aea1" href="Chl3d3cubWhlYWx0aGFsbGlhbmNlLm9yZy8qEKHdhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.mhealthalliance.org/*" />
+  </Annotation>
+  <Annotation about="www.1shoppingcart.com/*" timestamp="0x0004fa8b3401ae99" href="Chd3d3cuMXNob3BwaW5nY2FydC5jb20vKhCZ3Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.1shoppingcart.com/*" />
+  </Annotation>
+  <Annotation about="*.treeshore.com/*" timestamp="0x0004fa8b3401ae91" href="ChEqLnRyZWVzaG9yZS5jb20vKhCR3Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://treeshore.com/*" />
+  </Annotation>
+  <Annotation about="www.tele-pro.co.uk/*" timestamp="0x0004fa8b3401ae88" href="ChR3d3cudGVsZS1wcm8uY28udWsvKhCI3Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.tele-pro.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.instantestore.com/*" timestamp="0x0004fa8b3401ae81" href="Chd3d3cuaW5zdGFudGVzdG9yZS5jb20vKhCB3Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.instantestore.com/*" />
+  </Annotation>
+  <Annotation about="*.inlinevision.com/*" timestamp="0x0004fa8b3401ae79" href="ChQqLmlubGluZXZpc2lvbi5jb20vKhD53Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://inlinevision.com/*" />
+  </Annotation>
+  <Annotation about="www.turboecart.com/*" timestamp="0x0004fa8b3401ae70" href="ChR3d3cudHVyYm9lY2FydC5jb20vKhDw3Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.turboecart.com/*" />
+  </Annotation>
+  <Annotation about="www.mobilehealthmarketnews.com/*" timestamp="0x0004fa8b3401ae68" href="CiB3d3cubW9iaWxlaGVhbHRobWFya2V0bmV3cy5jb20vKhDo3Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.mobilehealthmarketnews.com/*" />
+  </Annotation>
+  <Annotation about="www.sweetmag.my/*" timestamp="0x0004fa8b3401ae60" href="ChF3d3cuc3dlZXRtYWcubXkvKhDg3Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.sweetmag.my/*" />
+  </Annotation>
+  <Annotation about="heliosguneserol.wordpress.com/*" timestamp="0x0004fa8b3401ae58" href="Ch9oZWxpb3NndW5lc2Vyb2wud29yZHByZXNzLmNvbS8qENjchqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://heliosguneserol.wordpress.com/*" />
+  </Annotation>
+  <Annotation about="www.openglobal.co.uk/*" timestamp="0x0004fa8b3401ae4f" href="ChZ3d3cub3Blbmdsb2JhbC5jby51ay8qEM_chqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.openglobal.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.productcart.com/*" timestamp="0x0004fa8b3401ae47" href="ChV3d3cucHJvZHVjdGNhcnQuY29tLyoQx9yGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.productcart.com/*" />
+  </Annotation>
+  <Annotation about="www.volusion.co.uk/*" timestamp="0x0004fa8b3401ae3d" href="ChR3d3cudm9sdXNpb24uY28udWsvKhC93Iags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.volusion.co.uk/*" />
+  </Annotation>
+  <Annotation about="shopping-cart-software.findthebest.com/*" timestamp="0x0004fa8b3401ae2e" href="CihzaG9wcGluZy1jYXJ0LXNvZnR3YXJlLmZpbmR0aGViZXN0LmNvbS8qEK7chqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://shopping-cart-software.findthebest.com/*" />
+  </Annotation>
+  <Annotation about="www.outerboxdesign.com/*" timestamp="0x0004fa8b3401ae1f" href="Chh3d3cub3V0ZXJib3hkZXNpZ24uY29tLyoQn9yGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.outerboxdesign.com/*" />
+  </Annotation>
+  <Annotation about="extend.thecartpress.com/*" timestamp="0x0004fa8b3401ae0f" href="ChlleHRlbmQudGhlY2FydHByZXNzLmNvbS8qEI_chqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://extend.thecartpress.com/*" />
+  </Annotation>
+  <Annotation about="www.searchfit.com/*" timestamp="0x0004fa8b3401adfd" href="ChN3d3cuc2VhcmNoZml0LmNvbS8qEP3bhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.searchfit.com/*" />
+  </Annotation>
+  <Annotation about="www.mobilehealthcaretoday.com/news/*" timestamp="0x0004fa8b3401adf5" href="CiR3d3cubW9iaWxlaGVhbHRoY2FyZXRvZGF5LmNvbS9uZXdzLyoQ9duGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.mobilehealthcaretoday.com/news/*" />
+  </Annotation>
+  <Annotation about="www.servora.com/*" timestamp="0x0004fa8b3401aded" href="ChF3d3cuc2Vydm9yYS5jb20vKhDt24ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.servora.com/*" />
+  </Annotation>
+  <Annotation about="www.bysoftchina.com/*" timestamp="0x0004fa8b3401ade5" href="ChV3d3cuYnlzb2Z0Y2hpbmEuY29tLyoQ5duGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.bysoftchina.com/*" />
+  </Annotation>
+  <Annotation about="www.dusza.co.uk/*" timestamp="0x0004fa8b3401addd" href="ChF3d3cuZHVzemEuY28udWsvKhDd24ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.dusza.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.kanx.org/*" timestamp="0x0004fa8b3401add6" href="Cg53d3cua2FueC5vcmcvKhDW24ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.kanx.org/*" />
+  </Annotation>
+  <Annotation about="*.digilite.ca/*" timestamp="0x0004fa8b3401adce" href="Cg8qLmRpZ2lsaXRlLmNhLyoQztuGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://digilite.ca/*" />
+  </Annotation>
+  <Annotation about="www.websitemagazine.com/content/blogs/ecommerce/archive/2013/*" timestamp="0x0004fa8b3401adc5" href="Cj53d3cud2Vic2l0ZW1hZ2F6aW5lLmNvbS9jb250ZW50L2Jsb2dzL2Vjb21tZXJjZS9hcmNoaXZlLzIwMTMvKhDF24ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.websitemagazine.com/content/blogs/ecommerce/archive/2013/*" />
+  </Annotation>
+  <Annotation about="www.iwebsolutions.co.uk/websites/*" timestamp="0x0004fa8b3401adbd" href="CiJ3d3cuaXdlYnNvbHV0aW9ucy5jby51ay93ZWJzaXRlcy8qEL3bhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.iwebsolutions.co.uk/websites/*" />
+  </Annotation>
+  <Annotation about="www.blueacorn.com/blog/*" timestamp="0x0004fa8b3401adb5" href="Chh3d3cuYmx1ZWFjb3JuLmNvbS9ibG9nLyoQtduGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.blueacorn.com/blog/*" />
+  </Annotation>
+  <Annotation about="www.groupfmg.com/*" timestamp="0x0004fa8b3401adad" href="ChJ3d3cuZ3JvdXBmbWcuY29tLyoQrduGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.groupfmg.com/*" />
+  </Annotation>
+  <Annotation about="*.evergreencomputing.com/*" timestamp="0x0004fa8b3401ada5" href="ChoqLmV2ZXJncmVlbmNvbXB1dGluZy5jb20vKhCl24ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://evergreencomputing.com/*" />
+  </Annotation>
+  <Annotation about="www.dreamtemplatestudio.com/*" timestamp="0x0004fa8b3401ad9d" href="Ch13d3cuZHJlYW10ZW1wbGF0ZXN0dWRpby5jb20vKhCd24ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.dreamtemplatestudio.com/*" />
+  </Annotation>
+  <Annotation about="www.bigraja.com/*" timestamp="0x0004fa8b3401ad95" href="ChF3d3cuYmlncmFqYS5jb20vKhCV24ags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.bigraja.com/*" />
+  </Annotation>
+  <Annotation about="www.k-ecommerce.com/*" timestamp="0x0004fa8b3401ad8d" href="ChV3d3cuay1lY29tbWVyY2UuY29tLyoQjduGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.k-ecommerce.com/*" />
+  </Annotation>
+  <Annotation about="www.iwebsolutions.co.uk/work/*" timestamp="0x0004fa8b3401ad85" href="Ch53d3cuaXdlYnNvbHV0aW9ucy5jby51ay93b3JrLyoQhduGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.iwebsolutions.co.uk/work/*" />
+  </Annotation>
+  <Annotation about="jobs.walmart.com/silicon-valley/*" timestamp="0x0004fa8b3401ad7d" href="CiFqb2JzLndhbG1hcnQuY29tL3NpbGljb24tdmFsbGV5LyoQ_dqGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://jobs.walmart.com/silicon-valley/*" />
+  </Annotation>
+  <Annotation about="www.palmerwebmarketing.com/*" timestamp="0x0004fa8b3401ad75" href="Chx3d3cucGFsbWVyd2VibWFya2V0aW5nLmNvbS8qEPXahqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.palmerwebmarketing.com/*" />
+  </Annotation>
+  <Annotation about="www.websiteondemand.com.au/*" timestamp="0x0004fa8b3401ad69" href="Chx3d3cud2Vic2l0ZW9uZGVtYW5kLmNvbS5hdS8qEOnahqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.websiteondemand.com.au/*" />
+  </Annotation>
+  <Annotation about="www.ecommercetemplates.com/help/*" timestamp="0x0004fa8b3401ad5b" href="CiF3d3cuZWNvbW1lcmNldGVtcGxhdGVzLmNvbS9oZWxwLyoQ29qGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.ecommercetemplates.com/help/*" />
+  </Annotation>
+  <Annotation about="*.vistawebdesigns.com/*" timestamp="0x0004fa8b3401ad4a" href="ChcqLnZpc3Rhd2ViZGVzaWducy5jb20vKhDK2oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://vistawebdesigns.com/*" />
+  </Annotation>
+  <Annotation about="www.upshotcommerce.com/ecommerce-software/*" timestamp="0x0004fa8b3401ad2a" href="Cit3d3cudXBzaG90Y29tbWVyY2UuY29tL2Vjb21tZXJjZS1zb2Z0d2FyZS8qEKrahqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.upshotcommerce.com/ecommerce-software/*" />
+  </Annotation>
+  <Annotation about="*.sysiq.com/*" timestamp="0x0004fa8b3401ad23" href="Cg0qLnN5c2lxLmNvbS8qEKPahqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://sysiq.com/*" />
+  </Annotation>
+  <Annotation about="www.designer-websites.co.uk/*" timestamp="0x0004fa8b3401ad19" href="Ch13d3cuZGVzaWduZXItd2Vic2l0ZXMuY28udWsvKhCZ2oags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.designer-websites.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.sitewizard.co.uk/*" timestamp="0x0004fa8b3401ad12" href="ChZ3d3cuc2l0ZXdpemFyZC5jby51ay8qEJLahqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.sitewizard.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.freestart.com/*" timestamp="0x0004fa8b3401ad0a" href="ChN3d3cuZnJlZXN0YXJ0LmNvbS8qEIrahqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.freestart.com/*" />
+  </Annotation>
+  <Annotation about="www.infinite-eye.com/*" timestamp="0x0004fa8b3401ad02" href="ChZ3d3cuaW5maW5pdGUtZXllLmNvbS8qEILahqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.infinite-eye.com/*" />
+  </Annotation>
+  <Annotation about="www.e-comlaw.com/e-commerce-law-and-policy/*" timestamp="0x0004fa8b3401acfa" href="Cix3d3cuZS1jb21sYXcuY29tL2UtY29tbWVyY2UtbGF3LWFuZC1wb2xpY3kvKhD62Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.e-comlaw.com/e-commerce-law-and-policy/*" />
+  </Annotation>
+  <Annotation about="ecommerce-blog.nexternal.com/*" timestamp="0x0004fa8b3401acf1" href="Ch5lY29tbWVyY2UtYmxvZy5uZXh0ZXJuYWwuY29tLyoQ8dmGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://ecommerce-blog.nexternal.com/*" />
+  </Annotation>
+  <Annotation about="www.mercuryminds.com/blog/*" timestamp="0x0004fa8b3401ace4" href="Cht3d3cubWVyY3VyeW1pbmRzLmNvbS9ibG9nLyoQ5NmGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.mercuryminds.com/blog/*" />
+  </Annotation>
+  <Annotation about="www.purenet.co.uk/*" timestamp="0x0004fa8b3401acd5" href="ChN3d3cucHVyZW5ldC5jby51ay8qENXZhqCz0b4C">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.purenet.co.uk/*" />
+  </Annotation>
+  <Annotation about="zeroseven.com.au/*" timestamp="0x0004fa8b3401acc7" href="ChJ6ZXJvc2V2ZW4uY29tLmF1LyoQx9mGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://zeroseven.com.au/*" />
+  </Annotation>
+  <Annotation about="www.intelligentretail.co.uk/*" timestamp="0x0004fa8b3401acb7" href="Ch13d3cuaW50ZWxsaWdlbnRyZXRhaWwuY28udWsvKhC32Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.intelligentretail.co.uk/*" />
+  </Annotation>
+  <Annotation about="www.12leaves.com/*" timestamp="0x0004fa8b3401aca3" href="ChJ3d3cuMTJsZWF2ZXMuY29tLyoQo9mGoLPRvgI">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.12leaves.com/*" />
+  </Annotation>
+  <Annotation about="www.seedcoregroup.com/*" timestamp="0x0004fa8b3401ac98" href="Chd3d3cuc2VlZGNvcmVncm91cC5jb20vKhCY2Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.seedcoregroup.com/*" />
+  </Annotation>
+  <Annotation about="www.redtechnology.com/*" timestamp="0x0004fa8b3401ac8a" href="Chd3d3cucmVkdGVjaG5vbG9neS5jb20vKhCK2Yags9G-Ag">
+    <Label name="_cse_rof1dm__d_k" />
+    <AdditionalData attribute="original_url" value="http://www.redtechnology.com/*" />
+  </Annotation>
+</Annotations>
